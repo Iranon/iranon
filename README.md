@@ -20,7 +20,7 @@ _ _|
 ___|_|  \__,_|_|  _|\___/ _|  _|
 ```
 
-I am a Web Developer interested in creative ways to empower people :zap:
+Fascinated by computers and their potential, I am a Web Developer interested in creative ways to empower people :zap:
 
 You can check my gists [here](https://gist.github.com/Iranon) :round_pushpin:
 
